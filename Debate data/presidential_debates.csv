@@ -1,5 +1,5 @@
-Year,Title,Category,Filename,Source,Text
-2000,Presidential Debate in Boston,Presidential,2000_Presidential_Debate_in_Boston.txt,https://www.presidency.ucsb.edu/documents/presidential-debate-boston,"MODERATOR: Good evening from the Clark Athletic Center at the University of Massachusetts in Boston. I'm Jim Lehrer of the NewsHour on PBS, and I welcome you to the first of three 90-minute debates between the Democratic candidate for president, Vice President Al Gore and the Republican candidate, Governor George W. Bush of Texas. The debates are sponsored by the Commission on Presidential Debates and they will be conducted within formats agreed to between the two campaigns. We'll have the candidates at podiums. No answer to a question can exceed two minutes. Rebuttal is limited to one minute. But as moderator I have the option to follow up and extend any give and take any three-and-a-half minutes. Even then, no single answer can exceed two minutes. The candidates under their rules may not question each other directly. There will be no opening statements, but each candidate may have up to two minutes for a closing statement. The questions and the subjects were chosen by me alone. I have told no one from the two campaigns, or the Commission, or anyone else involved what they are. There is a small audience in the hall tonight. They are not here to participate, only to listen. I have asked, and they have agreed, to remain silent for the next 90 minutes. Except for right now, when they will applaud as we welcome the two candidates, Governor Bush and Vice President Gore.
+year,title,text,file
+2000,Presidential Debate in Boston,"MODERATOR: Good evening from the Clark Athletic Center at the University of Massachusetts in Boston. I'm Jim Lehrer of the NewsHour on PBS, and I welcome you to the first of three 90-minute debates between the Democratic candidate for president, Vice President Al Gore and the Republican candidate, Governor George W. Bush of Texas. The debates are sponsored by the Commission on Presidential Debates and they will be conducted within formats agreed to between the two campaigns. We'll have the candidates at podiums. No answer to a question can exceed two minutes. Rebuttal is limited to one minute. But as moderator I have the option to follow up and extend any give and take any three-and-a-half minutes. Even then, no single answer can exceed two minutes. The candidates under their rules may not question each other directly. There will be no opening statements, but each candidate may have up to two minutes for a closing statement. The questions and the subjects were chosen by me alone. I have told no one from the two campaigns, or the Commission, or anyone else involved what they are. There is a small audience in the hall tonight. They are not here to participate, only to listen. I have asked, and they have agreed, to remain silent for the next 90 minutes. Except for right now, when they will applaud as we welcome the two candidates, Governor Bush and Vice President Gore.
 
 (Applause)
 
@@ -317,8 +317,8 @@ GORE: I want to thank everybody who watched and listened tonight because this is
 
 MODERATOR: We will continue this dialogue next week on October 11th at Wake Forest University in Winston-Salem, North Carolina. The format then will be more informal, more conversational with the two candidates seated at a table with me. The third will be October 17th at Washington University in St. Louis, and that will follow a town-hall type format. October 5 there is a 90-minute debate between Senator Joe Lieberman and Secretary Dick Cheney. It will be held at Center College in Danville, Kentucky. The moderator will be Bernard Shaw of CNN. Thank you, Governor Bush, Vice President Gore. See you next week. For now from Boston, I'm Jim Lehrer. Thank you, and good night.
 
-(APPLAUSE)"
-2000,Presidential Debate in St. Louis,Presidential,2000_Presidential_Debate_in_St._Louis.txt,https://www.presidency.ucsb.edu/documents/presidential-debate-st-louis-0,"MODERATOR: Good evening from the Field House at Washington University in St. Louis. I'm Jim Lehrer of the News Hour on PBS. And I welcome you to this third and final Campaign 2000 debate between the Democratic candidate for president, Vice President Al Gore, and the Republican candidate, Governor George W. Bush of Texas. Let's welcome the candidates now. Before proceeding tonight we would like to observe a moment of silence in memory of Governor Mel Carnahan of Missouri, who along with his son and his former chief of staff, died in a private plane crash last night near St. Louis. A reminder, as we continue now, that these debates are sponsored by the Commission on Presidential Debates. The formats and the rules were worked out by the commission and the two campaigns. Tonight's questions will be asked by St. Louis area voters who were identified as being uncommitted by the Gallup organization. Earlier today each of them wrote a question on a small card like this. Those cards were collected and then given to me this afternoon. My job, under the rules of the evening, was to decide the order the questions will be asked and to call on the questioners accordingly. I also have the option of asking follow-ups which -- in order to get to more of the panel's questions. For the record, I plan to do sparingly and mostly for clarifications. The audience participants are bound by the following rule. They shall not ask follow-up questions or otherwise participate in the extended discussion. And the questioner's microphone will be turned off after he or she completes asking the question. Those are the rules. As in Winston-Salem last week, no single answer or response from a candidate can exceed two minutes. There is an audience here in the hall and they have promised to remain absolutely quiet, as did their predecessors this year in Boston, Danville, and Winston-Salem. Before we begin, a correction from last week's debate. I was wrong when I said Vice President Gore's campaign commercials had called Governor Bush a bumbler. That specific charge was made in a press statement by Gore campaign spokesman Mark Fabiani, not in a TV Guide.
+(APPLAUSE)",2000_Presidential_Debate_in_Boston.txt
+2000,Presidential Debate in St. Louis,"MODERATOR: Good evening from the Field House at Washington University in St. Louis. I'm Jim Lehrer of the News Hour on PBS. And I welcome you to this third and final Campaign 2000 debate between the Democratic candidate for president, Vice President Al Gore, and the Republican candidate, Governor George W. Bush of Texas. Let's welcome the candidates now. Before proceeding tonight we would like to observe a moment of silence in memory of Governor Mel Carnahan of Missouri, who along with his son and his former chief of staff, died in a private plane crash last night near St. Louis. A reminder, as we continue now, that these debates are sponsored by the Commission on Presidential Debates. The formats and the rules were worked out by the commission and the two campaigns. Tonight's questions will be asked by St. Louis area voters who were identified as being uncommitted by the Gallup organization. Earlier today each of them wrote a question on a small card like this. Those cards were collected and then given to me this afternoon. My job, under the rules of the evening, was to decide the order the questions will be asked and to call on the questioners accordingly. I also have the option of asking follow-ups which -- in order to get to more of the panel's questions. For the record, I plan to do sparingly and mostly for clarifications. The audience participants are bound by the following rule. They shall not ask follow-up questions or otherwise participate in the extended discussion. And the questioner's microphone will be turned off after he or she completes asking the question. Those are the rules. As in Winston-Salem last week, no single answer or response from a candidate can exceed two minutes. There is an audience here in the hall and they have promised to remain absolutely quiet, as did their predecessors this year in Boston, Danville, and Winston-Salem. Before we begin, a correction from last week's debate. I was wrong when I said Vice President Gore's campaign commercials had called Governor Bush a bumbler. That specific charge was made in a press statement by Gore campaign spokesman Mark Fabiani, not in a TV Guide.
 
 GORE: I'm glad you clarified that.
 
@@ -654,8 +654,8 @@ BUSH: Well, Jim, I want to thank you and thank the folks here at Washington Univ
 
 MODERATOR: A closing piece of business before we go. The Debate Commission wants reaction to the three kinds of formats used in the debates this year, and you may register an opinion at their website at www.debates.org . Vice President Gore, Governor Bush, thank you. And good night from Washington University in St. Louis.
 
-(APPLAUSE)"
-2000,"Presidential Debate in Winston-Salem, North Carolina",Presidential,"2000_Presidential_Debate_in_Winston-Salem,_North_Carolina.txt",https://www.presidency.ucsb.edu/documents/presidential-debate-winston-salem-north-carolina-0,"MODERATOR: Let's welcome the candidates, Governor Bush and Vice President Gore. Good evening, from Wake Chapel at Wake Forest University at Winston-Salem, North Carolina. I'm Jim Lehrer of the News Hour on PBS. Welcome to this second election 2000 debate between the Republican candidate for president, George W. Bush of Texas, and the Democratic candidate, Vice President Al Gore. These debates are sponsored by the Commission on Presidential Debates. The format and the rules are those negotiated by representatives of the two campaigns. Only the subjects tonight and the questions are mine. The format tonight is that of a conversation. The only prevailing rule is that no single response can ever, ever exceed two minutes. The prevailing rule for the audience here in the hall is as always, absolute quiet, please. Good evening, Governor Bush, Vice President Gore. The end of our 90 minutes last week in Boston, the total time each of you took was virtually the same. Let's see if we can do the same tonight, or come close. Governor Bush, the first question goes to you. One of you is about to be elected the leader of the single-most powerful nation in the world, economically, financially, militarily, diplomatically, you name it. Have you formed any guiding principles for exercising this enormous power?
+(APPLAUSE)",2000_Presidential_Debate_in_St._Louis.txt
+2000,"Presidential Debate in Winston-Salem, North Carolina","MODERATOR: Let's welcome the candidates, Governor Bush and Vice President Gore. Good evening, from Wake Chapel at Wake Forest University at Winston-Salem, North Carolina. I'm Jim Lehrer of the News Hour on PBS. Welcome to this second election 2000 debate between the Republican candidate for president, George W. Bush of Texas, and the Democratic candidate, Vice President Al Gore. These debates are sponsored by the Commission on Presidential Debates. The format and the rules are those negotiated by representatives of the two campaigns. Only the subjects tonight and the questions are mine. The format tonight is that of a conversation. The only prevailing rule is that no single response can ever, ever exceed two minutes. The prevailing rule for the audience here in the hall is as always, absolute quiet, please. Good evening, Governor Bush, Vice President Gore. The end of our 90 minutes last week in Boston, the total time each of you took was virtually the same. Let's see if we can do the same tonight, or come close. Governor Bush, the first question goes to you. One of you is about to be elected the leader of the single-most powerful nation in the world, economically, financially, militarily, diplomatically, you name it. Have you formed any guiding principles for exercising this enormous power?
 
 BUSH: I have, I have. First question is what's in the best interests of the United States? What's in the best interests of our people? When it comes to foreign policy that will be my guiding question. Is it in our nation's interests? Peace in the Middle East is in our nation's interests. Having a hemisphere that is free for trade and peaceful is in our nation's interests. Strong relations in Europe is in our nation's interest. I've thought a lot about what it means to be the president. I also understand that an administration is not one person, but an administration is dedicated citizens who are called by the president to serve the country, to serve a cause greater than self, and so I've thought about an administration of people who represent all America, but people who understand my compassionate and conservative philosophy. I haven't started naming names except for one person, and that's Mr. Richard Cheney who I thought did a great job the other night. He's a vice presidential nominee who represents -- I think people got to see why I picked him. He's man of solid judgment and he's going to be a person to stand by my side. One of the things I've done in Texas is I've been able to put together a good team of people. I've been able to set clear goals. The goals ought to be an education system that leaves no child behind, Medicare for our seniors, a Social Security system that's safe and secure, foreign policy that's in our nation's interest, and a strong military, and then bring people together to achieve those goals. That's what a Chief Executive Officer does. So I've thought long and hard about the honor of being the President of the United States.
 
@@ -1119,8 +1119,8 @@ BUSH: Jim, thank you very much. Mr. Vice President, thank you very much, and I w
 
 MODERATOR: And we will return next Tuesday night, October 17th, from Washington University in St. Louis for the third and final debate. Thank you, Vice President Gore, Governor Bush. See you next week. For now, from Winston-Salem, I'm Jim Lehrer, thank you and good night.
 
-(APPLAUSE)"
-2004,"Presidential Debate in Coral Gables, Florida",Presidential,"2004_Presidential_Debate_in_Coral_Gables,_Florida.txt",https://www.presidency.ucsb.edu/documents/presidential-debate-coral-gables-florida,"Jim Lehrer. Good evening from the University of Miami Convocation Center in Coral Gables, Florida. I'm Jim Lehrer of the News Hour on PBS. And I welcome you to the first of the 2004 Presidential debates between President George W. Bush, the Republican nominee, and Senator John Kerry, the Democratic nominee.
+(APPLAUSE)","2000_Presidential_Debate_in_Winston-Salem,_North_Carolina.txt"
+2004,"Presidential Debate in Coral Gables, Florida","Jim Lehrer. Good evening from the University of Miami Convocation Center in Coral Gables, Florida. I'm Jim Lehrer of the News Hour on PBS. And I welcome you to the first of the 2004 Presidential debates between President George W. Bush, the Republican nominee, and Senator John Kerry, the Democratic nominee.
 
 These debates are sponsored by the Commission on Presidential Debates. Tonight's will last 90 minutes, following detailed rules of engagement worked out by representatives of the candidates. I have agreed to enforce their rules on them. The umbrella topic is foreign policy and homeland security. But the specific subjects were chosen by me. The questions were composed by me. The candidates have not been told what they are, nor has anyone else.
 
@@ -1688,8 +1688,8 @@ I appreciate your listening tonight. I ask for your vote. And may God continue t
 
 Mr. Lehrer. And that ends tonight's debate. A reminder, the second Presidential debate will be a week from tomorrow, October 8th, from Washington University in St. Louis. Charles Gibson of ABC News will moderate a townhall-type event. Then, on October 13th, from Arizona State University in Tempe, Bob Schieffer of CBS News will moderate an exchange on domestic policy that will be similar in format to tonight's. Also, this coming Tuesday, at Case Western Reserve University in Cleveland, the Vice Presidential candidates, Vice President Cheney and Senator Edwards, will debate with my PBS colleague, Gwen Ifill, moderating.
 
-For now, thank you, Senator Kerry, President Bush. From Coral Gables, Florida, I'm Jim Lehrer. Thank you, and good night."
-2004,"Presidential Debate in St. Louis, Missouri",Presidential,"2004_Presidential_Debate_in_St._Louis,_Missouri.txt",https://www.presidency.ucsb.edu/documents/presidential-debate-st-louis-missouri,"Charles Gibson. Good evening from the Field House at Washington University in St. Louis. I'm Charles Gibson of ABC News and ""Good Morning America."" I welcome you to the second of the 2004 Presidential debates between President George W. Bush, the Republican nominee, and Senator John Kerry, the Democratic nominee. The debates are sponsored by the Commission on Presidential Debates.
+For now, thank you, Senator Kerry, President Bush. From Coral Gables, Florida, I'm Jim Lehrer. Thank you, and good night.","2004_Presidential_Debate_in_Coral_Gables,_Florida.txt"
+2004,"Presidential Debate in St. Louis, Missouri","Charles Gibson. Good evening from the Field House at Washington University in St. Louis. I'm Charles Gibson of ABC News and ""Good Morning America."" I welcome you to the second of the 2004 Presidential debates between President George W. Bush, the Republican nominee, and Senator John Kerry, the Democratic nominee. The debates are sponsored by the Commission on Presidential Debates.
 
 Tonight's format is going to be a bit different. We have assembled a townhall meeting. We're in the ""Show Me"" State, as everyone knows Missouri to be, so Missouri residents will ask the questions, these 140 citizens who were identified by the Gallup Organization as not yet committed in this election. Now, earlier today each audience member gave me two questions on cards like this: One they'd like to ask of the President; the other they'd like to ask the Senator. I have selected the questions to be asked and the order. No one has seen the final list of questions but me—certainly not the candidates. No audience member knows if he or she will be called upon. Audience microphones will be turned off after a question is asked.
 
@@ -2351,8 +2351,8 @@ I want to give you a reminder that the third and final debate, on issues of dome
 
 I want to thank President Bush and Senator Kerry for tonight. I want to thank these citizens of the St. Louis area who asked the questions, who gave so willingly of their time, and who took their responsibility very seriously. Thank you also to everyone at Washington. I want to thank everyone at Washington University in St. Louis for being such gracious hosts.
 
-I'm Charles Gibson from ABC News. From St. Louis, good night."
-2004,"Presidential Debate in Tempe, Arizona",Presidential,"2004_Presidential_Debate_in_Tempe,_Arizona.txt",https://www.presidency.ucsb.edu/documents/presidential-debate-tempe-arizona,"Bob Schieffer. Good evening from Arizona State University in Tempe, Arizona. I'm Bob Schieffer of CBS News. I want to welcome you to the third and last of the 2004 debates between President George Bush and Senator John Kerry.
+I'm Charles Gibson from ABC News. From St. Louis, good night.","2004_Presidential_Debate_in_St._Louis,_Missouri.txt"
+2004,"Presidential Debate in Tempe, Arizona","Bob Schieffer. Good evening from Arizona State University in Tempe, Arizona. I'm Bob Schieffer of CBS News. I want to welcome you to the third and last of the 2004 debates between President George Bush and Senator John Kerry.
 
 As Jim Lehrer told you before the first one, these debates are sponsored by the Commission on Presidential Debates. Tonight the topic will be domestic affairs, but the format will be the same as that first debate. I'll moderate our discussion under detailed rules agreed to by the candidates, but the questions and the areas to be covered were chosen by me. I have not told the candidates or anyone else what they are.
 
@@ -2882,8 +2882,8 @@ I want to thank you for listening tonight. I'm asking for your vote. God bless y
 
 Mr. Schieffer. Thank you, Mr. President. Thank you, Senator Kerry. Well, that brings these debates to a close, but the campaign goes on. I want to wish both of you the very best of luck between now and election day.
 
-That's it for us from Arizona State University in Tempe, Arizona. I'm Bob Schieffer of CBS News. Good night, everyone."
-2008,"Presidential Debate at Belmont University in Nashville, Tennessee",Presidential,"2008_Presidential_Debate_at_Belmont_University_in_Nashville,_Tennessee.txt",https://www.presidency.ucsb.edu/documents/presidential-debate-belmont-university-nashville-tennessee,"[moderated by Tom Brokaw of NBC News]
+That's it for us from Arizona State University in Tempe, Arizona. I'm Bob Schieffer of CBS News. Good night, everyone.","2004_Presidential_Debate_in_Tempe,_Arizona.txt"
+2008,"Presidential Debate at Belmont University in Nashville, Tennessee","[moderated by Tom Brokaw of NBC News]
 
 BROKAW: Good evening from Belmont University in Nashville, Tennessee. I'm Tom Brokaw of NBC News. And welcome to this second presidential debate, sponsored by the Commission on Presidential Debates.
 
@@ -3847,8 +3847,8 @@ That concludes tonight's debate from here in Nashville. We want to thank our hos
 
 In addition to everything else, there is one more presidential debate on Wednesday, October 15, at Hofstra University in New York, moderated by my friend, Bob Schieffer of ""CBS News.""
 
-Thank you, Senator McCain. Thank you, Senator Obama. Good night, everyone, from Nashville."
-2008,"Presidential Debate at Hofstra University in Hempstead, New York",Presidential,"2008_Presidential_Debate_at_Hofstra_University_in_Hempstead,_New_York.txt",https://www.presidency.ucsb.edu/documents/presidential-debate-hofstra-university-hempstead-new-york,"[moderated by Bob Schieffer of CBS News]
+Thank you, Senator McCain. Thank you, Senator Obama. Good night, everyone, from Nashville.","2008_Presidential_Debate_at_Belmont_University_in_Nashville,_Tennessee.txt"
+2008,"Presidential Debate at Hofstra University in Hempstead, New York","[moderated by Bob Schieffer of CBS News]
 
 SCHIEFFER: Good evening. And welcome to the third and last presidential debate of 2008, sponsored by the Commission on Presidential Debates. I'm Bob Schieffer of CBS News.
 
@@ -4834,8 +4834,8 @@ Thank you very much.
 
 SCHIEFFER: Sen. Obama, Sen. McCain, thank you very much.
 
-This concludes the final debate. I'm Bob Schieffer of CBS News, and I will leave you tonight with what my mother always said -- go vote now. It will make you feel big and strong. Good night, everyone."
-2008,Presidential Debate at the University of Mississippi in Oxford,Presidential,2008_Presidential_Debate_at_the_University_of_Mississippi_in_Oxford.txt,https://www.presidency.ucsb.edu/documents/presidential-debate-the-university-mississippi-oxford,"[moderated by Jim Lehrer of PBS]
+This concludes the final debate. I'm Bob Schieffer of CBS News, and I will leave you tonight with what my mother always said -- go vote now. It will make you feel big and strong. Good night, everyone.","2008_Presidential_Debate_at_Hofstra_University_in_Hempstead,_New_York.txt"
+2008,Presidential Debate at the University of Mississippi in Oxford,"[moderated by Jim Lehrer of PBS]
 
 LEHRER : Gentlemen, at this very moment tonight, where do you stand on the financial recovery plan?
 
@@ -5797,8 +5797,8 @@ LEHRER : And that ends this debate tonight.
 
 On October 2, next Thursday, also at 9:00 p.m. Eastern time, the two vice presidential candidates will debate at Washington University in St. Louis. My PBS colleague, Gwen Ifill, will be the moderator.
 
-For now, from Oxford, Mississippi, thank you, senators, both. I'm Jim Lehrer. Thank you, and good night."
-2012,"Presidential Debate in Boca Raton, Florida",Presidential,"2012_Presidential_Debate_in_Boca_Raton,_Florida.txt",https://www.presidency.ucsb.edu/documents/presidential-debate-boca-raton-florida,"Moderator Bob Schieffer. Good evening from the campus of Lynn University here in Boca Raton, Florida. This is the fourth and last debate of the 2012 campaign, brought to you by the Commission on Presidential Debates. This one is on foreign policy. I'm Bob Schieffer of CBS News.
+For now, from Oxford, Mississippi, thank you, senators, both. I'm Jim Lehrer. Thank you, and good night.",2008_Presidential_Debate_at_the_University_of_Mississippi_in_Oxford.txt
+2012,"Presidential Debate in Boca Raton, Florida","Moderator Bob Schieffer. Good evening from the campus of Lynn University here in Boca Raton, Florida. This is the fourth and last debate of the 2012 campaign, brought to you by the Commission on Presidential Debates. This one is on foreign policy. I'm Bob Schieffer of CBS News.
 
 The questions are mine, and I have not shared them with the candidates or their aides. The audience has taken a vow of silence: no applause, no reaction of any kind, except right now, when we welcome President Barack Obama and Governor Mitt Romney.
 
@@ -6578,8 +6578,8 @@ Mr. Schieffer. Gentlemen, thank you both so much. That brings an end to this yea
 
 The President . That's great.
 
-Mr. Schieffer. Good night."
-2012,"Presidential Debate in Denver, Colorado",Presidential,"2012_Presidential_Debate_in_Denver,_Colorado.txt",https://www.presidency.ucsb.edu/documents/presidential-debate-denver-colorado,"Moderator Jim Lehrer. Good evening from the Magness Arena at the University of Denver, in Denver, Colorado. I'm Jim Lehrer of the PBS NewsHour, and I welcome you to the first of the 2012 Presidential Debates between President Barack Obama, the Democratic nominee, and former Massachusetts Governor Mitt Romney, the Republican nominee.
+Mr. Schieffer. Good night.","2012_Presidential_Debate_in_Boca_Raton,_Florida.txt"
+2012,"Presidential Debate in Denver, Colorado","Moderator Jim Lehrer. Good evening from the Magness Arena at the University of Denver, in Denver, Colorado. I'm Jim Lehrer of the PBS NewsHour, and I welcome you to the first of the 2012 Presidential Debates between President Barack Obama, the Democratic nominee, and former Massachusetts Governor Mitt Romney, the Republican nominee.
 
 This debate and the next three—two Presidential, one Vice Presidential—are sponsored by the Commission on Presidential Debates. Tonight's 90 minutes will be about domestic issues and will follow a format designed by the Commission. There will be six roughly 15-minute segments, with 2-minute answers for the first question, then open discussion for the remainder of each segment.
 
@@ -7409,8 +7409,8 @@ Thank you, Jim.
 
 Mr. Lehrer. Thank you, Governor. Thank you, Mr. President.
 
-The next debate will be the Vice Presidential event on Thursday, October 11, at Centre College in Danville, Kentucky. For now, from the University of Denver, I'm Jim Lehrer. Thank you, and good night."
-2012,"Presidential Debate in Hempstead, New York",Presidential,"2012_Presidential_Debate_in_Hempstead,_New_York.txt",https://www.presidency.ucsb.edu/documents/presidential-debate-hempstead-new-york,"Moderator Candy Crowley . Good evening from Hofstra University in Hempstead, New York. I'm Candy Crowley from CNN's ""State of the Union.""
+The next debate will be the Vice Presidential event on Thursday, October 11, at Centre College in Danville, Kentucky. For now, from the University of Denver, I'm Jim Lehrer. Thank you, and good night.","2012_Presidential_Debate_in_Denver,_Colorado.txt"
+2012,"Presidential Debate in Hempstead, New York","Moderator Candy Crowley . Good evening from Hofstra University in Hempstead, New York. I'm Candy Crowley from CNN's ""State of the Union.""
 
 We are here for the second Presidential Debate, a town hall sponsored by the Commission on Presidential Debates. The Gallup organization chose 82 uncommitted voters from the New York area. Their questions will drive the night. My goal is to give the conversation direction and to ensure questions get answered.
 
@@ -8370,8 +8370,8 @@ Ms. Crowley. President Obama, Governor Romney, thank you for being here tonight.
 
 On that note, we have come to an end of this town hall debate. Our thanks to the participants for their time and to the people of Hofstra University for their hospitality.
 
-The next and final debate takes place Monday night at Lynn University in Boca Raton, Florida. Don't forget to watch. Election day is 3 weeks from today. Don't forget to vote. Goodnight."
-2016,"Presidential Debate at Hofstra University in Hempstead, New York",Presidential,"2016_Presidential_Debate_at_Hofstra_University_in_Hempstead,_New_York.txt",https://www.presidency.ucsb.edu/documents/presidential-debate-hofstra-university-hempstead-new-york-0,"PARTICIPANTS: Former Secretary of State Hillary Clinton (D); and Businessman Donald Trump (R)
+The next and final debate takes place Monday night at Lynn University in Boca Raton, Florida. Don't forget to watch. Election day is 3 weeks from today. Don't forget to vote. Goodnight.","2012_Presidential_Debate_in_Hempstead,_New_York.txt"
+2016,"Presidential Debate at Hofstra University in Hempstead, New York","PARTICIPANTS: Former Secretary of State Hillary Clinton (D); and Businessman Donald Trump (R)
 
 MODERATOR: Lester Holt (NBC News)
 
@@ -9419,8 +9419,8 @@ HOLT: All right. Well, that is going to do it for us. That concludes our debate 
 
 The next presidential debates are scheduled for October 9th at Washington University in St. Louis and October 19th at the University of Nevada Las Vegas. The conversation will continue.
 
-A reminder. The vice presidential debate is scheduled for October 4th at Longwood University in Farmville, Virginia. My thanks to Hillary Clinton and to Donald Trump and to Hofstra University for hosting us tonight. Good night, everyone."
-2016,"Presidential Debate at Washington University in St. Louis, Missouri",Presidential,"2016_Presidential_Debate_at_Washington_University_in_St._Louis,_Missouri.txt",https://www.presidency.ucsb.edu/documents/presidential-debate-washington-university-st-louis-missouri,"PARTICIPANTS: Former Secretary of State Hillary Clinton (D); and Businessman Donald Trump (R)
+A reminder. The vice presidential debate is scheduled for October 4th at Longwood University in Farmville, Virginia. My thanks to Hillary Clinton and to Donald Trump and to Hofstra University for hosting us tonight. Good night, everyone.","2016_Presidential_Debate_at_Hofstra_University_in_Hempstead,_New_York.txt"
+2016,"Presidential Debate at Washington University in St. Louis, Missouri","PARTICIPANTS: Former Secretary of State Hillary Clinton (D); and Businessman Donald Trump (R)
 
 MODERATORS: Anderson Cooper (CNN); and Martha Raddatz (ABC News)
 
@@ -10318,8 +10318,8 @@ RADDATZ: Thanks to both of you.
 
 COOPER: We want to thank both the candidates. We want to thank the university here. This concludes the town hall meeting. Our thanks to the candidates, the commission, Washington University, and to everybody who watched.
 
-RADDATZ: Please tune in on October 19th for the final presidential debate that will take place at the University of Nevada, Las Vegas. Good night, everyone."
-2016,Presidential Debate at the University of Nevada in Las Vegas,Presidential,2016_Presidential_Debate_at_the_University_of_Nevada_in_Las_Vegas.txt,https://www.presidency.ucsb.edu/documents/presidential-debate-the-university-nevada-las-vegas,"PARTICIPANTS: Former Secretary of State Hillary Clinton (D); and Businessman Donald Trump (R)
+RADDATZ: Please tune in on October 19th for the final presidential debate that will take place at the University of Nevada, Las Vegas. Good night, everyone.","2016_Presidential_Debate_at_Washington_University_in_St._Louis,_Missouri.txt"
+2016,Presidential Debate at the University of Nevada in Las Vegas,"PARTICIPANTS: Former Secretary of State Hillary Clinton (D); and Businessman Donald Trump (R)
 
 MODERATOR: Chris Wallace (Fox News)
 
@@ -11347,8 +11347,8 @@ Secretary Clinton—hold on just a moment, folks. Secretary Clinton, Mr. Trump, 
 
 That brings to an end this year's debates sponsored by the Commission on Presidential Debates. We want to thank the University of Nevada, Las Vegas, and its students for having us. Now the decision is up to you.
 
-While millions have already voted, Election Day, November 8th, is just 20 days away. One thing everyone here can agree on: We hope you will go vote. It is one of the honors and obligations of living in this great country. Thank you, and good night."
-2020,"Presidential Debate at Belmont University in Nashville, Tennessee",Presidential,"2020_Presidential_Debate_at_Belmont_University_in_Nashville,_Tennessee.txt",https://www.presidency.ucsb.edu/documents/presidential-debate-belmont-university-nashville-tennessee-0,"PARTICIPANTS: Former Vice President Joe Biden (D) and President Donald Trump (R)
+While millions have already voted, Election Day, November 8th, is just 20 days away. One thing everyone here can agree on: We hope you will go vote. It is one of the honors and obligations of living in this great country. Thank you, and good night.",2016_Presidential_Debate_at_the_University_of_Nevada_in_Las_Vegas.txt
+2020,"Presidential Debate at Belmont University in Nashville, Tennessee","PARTICIPANTS: Former Vice President Joe Biden (D) and President Donald Trump (R)
 
 MODERATOR: Kristen Welker (NBC News)
 
@@ -12058,8 +12058,8 @@ WELKER: All right. Vice President Biden, same question to you. What will you say
 
 BIDEN: I will say, 'I'm the American president. I represent all of you whether you voted for me or against me. And I'm going to make sure that you're represented. I'm going to give you hope. We're going to move. We're going to choose science over fiction. We're going to choose hope over fear. We're going to choose to move forward because we have enormous opportunities, enormous opportunities to make things better. We can grow this economy. We can deal with a systemic racism. At the same time, we can make sure that our economy is being run, and moved, and motivated by clean energy, creating millions of new jobs. And that's the fact, that's what we're going to do. And I'm going to say, as I said at the beginning, what is on the ballot here is the character of this country. Decency. Honor. Respect. Treating people with dignity. Making sure that everyone has an even chance. Now, I'm going to make sure you get that. You haven't been getting it the last four years.
 
-WELKER: All right. I want to thank you both for a very robust hour and a half, a fantastic debate. Really appreciate it. President Trump, former Vice President Joe Biden. Thank you to Belmont University for hosting us tonight and most late thank you to those watching tonight. Election Day is November 3rd. Don't forget to vote. Thank you everyone and have a great night."
-2020,"Presidential Debate at Case Western Reserve University in Cleveland, Ohio",Presidential,"2020_Presidential_Debate_at_Case_Western_Reserve_University_in_Cleveland,_Ohio.txt",https://www.presidency.ucsb.edu/documents/presidential-debate-case-western-reserve-university-cleveland-ohio,"PARTICIPANTS: Former Vice President Joe Biden (D) and President Donald Trump (R)
+WELKER: All right. I want to thank you both for a very robust hour and a half, a fantastic debate. Really appreciate it. President Trump, former Vice President Joe Biden. Thank you to Belmont University for hosting us tonight and most late thank you to those watching tonight. Election Day is November 3rd. Don't forget to vote. Thank you everyone and have a great night.","2020_Presidential_Debate_at_Belmont_University_in_Nashville,_Tennessee.txt"
+2020,"Presidential Debate at Case Western Reserve University in Cleveland, Ohio","PARTICIPANTS: Former Vice President Joe Biden (D) and President Donald Trump (R)
 
 MODERATOR: Chris Wallace (Fox News)
 
@@ -13807,8 +13807,8 @@ WALLACE: We're going to leave it there. . .
 
 TRUMP: And I think he does too. . .
 
-WALLACE: ... to be continued in more debates as we go on. President Trump, Vice President Biden, it's been an interesting hour and a half. I want to thank you both for participating in the first of three debates that you have agreed to engage in. We want to thank Case Western Reserve University and the Cleveland Clinic for hosting this event. The next debate, sponsored by the Commission on Presidential Debates, will be one week from tomorrow, October 7th, at the University of Utah in Salt Lake City. The two Vice-Presidential nominees, Vice President Mike Pence and Senator Kamala Harris will debate at 9:00 PM Eastern that night. We hope you watch. Until then, thank you, and good night."
-2024,"Presidential Debate in Atlanta, Georgia",Presidential,"2024_Presidential_Debate_in_Atlanta,_Georgia.txt",https://www.presidency.ucsb.edu/documents/presidential-debate-atlanta-georgia,"PARTICIPANTS: President Joe Biden (D) and Former President Donald Trump (R)
+WALLACE: ... to be continued in more debates as we go on. President Trump, Vice President Biden, it's been an interesting hour and a half. I want to thank you both for participating in the first of three debates that you have agreed to engage in. We want to thank Case Western Reserve University and the Cleveland Clinic for hosting this event. The next debate, sponsored by the Commission on Presidential Debates, will be one week from tomorrow, October 7th, at the University of Utah in Salt Lake City. The two Vice-Presidential nominees, Vice President Mike Pence and Senator Kamala Harris will debate at 9:00 PM Eastern that night. We hope you watch. Until then, thank you, and good night.","2020_Presidential_Debate_at_Case_Western_Reserve_University_in_Cleveland,_Ohio.txt"
+2024,"Presidential Debate in Atlanta, Georgia","PARTICIPANTS: President Joe Biden (D) and Former President Donald Trump (R)
 
 MODERATORS: Dana Bash (CNN) and Jake Tapper (CNN)
 
@@ -14768,8 +14768,8 @@ But you know what we did for the military was incredible. Choice for our soldier
 
 So, all of these things – we're in a failing nation, but it's not going to be failing anymore. We're going to make it great again.
 
-BASH: Thank you, former President Trump, President Biden."
-2024,"Presidential Debate in Philadelphia, Pennsylvania",Presidential,"2024_Presidential_Debate_in_Philadelphia,_Pennsylvania.txt",https://www.presidency.ucsb.edu/documents/presidential-debate-philadelphia-pennsylvania,"PARTICIPANTS: Vice President Kamala Harris (D) and Former President Donald Trump (R)
+BASH: Thank you, former President Trump, President Biden.","2024_Presidential_Debate_in_Atlanta,_Georgia.txt"
+2024,"Presidential Debate in Philadelphia, Pennsylvania","PARTICIPANTS: Vice President Kamala Harris (D) and Former President Donald Trump (R)
 
 MODERATORS: Linsey Davis (ABC News) and David Muir (ABC News)
 
@@ -15247,4 +15247,4 @@ TRUMP: So, she just started by saying she's gonna to do this, she's gonna to do 
 
 DAVIS: President Trump thank you. And that is our ABC News presidential debate from here in Philadelphia at the National Constitution Center. I'm Linsey Davis.
 
-MUIR: And I'm David Muir. Thank you for watching here in the U.S. And all over the world. And from all of us here at ABC News, good night."
+MUIR: And I'm David Muir. Thank you for watching here in the U.S. And all over the world. And from all of us here at ABC News, good night.","2024_Presidential_Debate_in_Philadelphia,_Pennsylvania.txt"
